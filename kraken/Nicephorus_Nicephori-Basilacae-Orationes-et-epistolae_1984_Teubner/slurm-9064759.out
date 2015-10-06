@@ -1,0 +1,11 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@m3n43: [1;32mOK[0m
+kraken grc_teubner /cluster/tufts/perseus_ocr/nidaba/Teubner/Nicephorus_Nicephori-Basilacae-Orationes-et-epistolae_1984_Teubner tif 5940 3
+Do 1. Okt 17:01:28 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+26e15298-e4e5-4147-b5c4-564b5d7ab4d6
+Do 1. Okt 18:44:06 EDT 2015
+slurmstepd: _slurm_cgroup_destroy: problem deleting step cgroup path /cgroup/freezer/slurm/uid_30292/job_9064759/step_batch: Device or resource busy

@@ -1,0 +1,11 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@m3n49: [1;32mOK[0m
+kraken grc_teubner /cluster/tufts/perseus_ocr/nidaba/Teubner/Plato_Platonis-Rei-publicae-libri-decem_1898_Teubner tif 14760 13
+Do 1. Okt 18:46:18 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+71e6b53d-17ff-478f-ab15-e52df8b3d25f
+Do 1. Okt 23:02:56 EDT 2015
+slurmstepd: _slurm_cgroup_destroy: problem deleting step cgroup path /cgroup/freezer/slurm/uid_30292/job_9064769/step_batch: Device or resource busy

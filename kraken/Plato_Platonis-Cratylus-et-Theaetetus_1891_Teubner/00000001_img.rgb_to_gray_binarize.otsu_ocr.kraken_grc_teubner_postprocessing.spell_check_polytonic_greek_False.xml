@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>00000001_img.rgb_to_gray_binarize.otsu.tif</title>
+        <respStmt xml:id="resp_0">
+          <resp>page segmentation</resp>
+          <name>tesseract</name>
+        </respStmt>
+      <respStmt xml:id="resp_1"><resp>character recognition</resp><name>kraken</name></respStmt><respStmt xml:id="resp_2"><resp>nidaba-levenshtein</resp><name>spell-checker</name></respStmt></titleStmt>
+      <publicationStmt/>
+    </fileDesc>
+  </teiHeader>
+  <sourceDoc>
+    <surface lrx="1351" lry="2017" ulx="0" uly="0">
+      <graphic url="3efed67b-1a33-4da0-84f2-f0ec996d3648/00000001_img.rgb_to_gray_binarize.otsu.tif"/>
+      <zone/>
+      <line lrx="410" lry="1576" ulx="145" uly="1475" xml:id="line_0" resp="#resp_0">
+        <zone lrx="179" lry="1576" resp="#resp_1" type="grapheme" ulx="145" uly="1475"><seg><g xml:id="grapheme_0" resp="#resp_1"> </g></seg><certainty degree="0.99" locus="value" target="#grapheme_0" resp="#resp_1"/></zone><zone lrx="192" lry="1576" resp="#resp_1" type="grapheme" ulx="179" uly="1475"><seg><g xml:id="grapheme_1" resp="#resp_1">5</g></seg><certainty degree="0.31" locus="value" target="#grapheme_1" resp="#resp_1"/></zone><zone lrx="204" lry="1576" resp="#resp_1" type="grapheme" ulx="192" uly="1475"><seg><g xml:id="grapheme_2" resp="#resp_1">a</g></seg><certainty degree="0.53" locus="value" target="#grapheme_2" resp="#resp_1"/></zone></line>
+      <line lrx="294" lry="1705" ulx="147" uly="1618" xml:id="line_1" resp="#resp_0">
+        <zone lrx="197" lry="1705" resp="#resp_1" type="grapheme" ulx="147" uly="1618"><seg><g xml:id="grapheme_3" resp="#resp_1"> </g></seg><certainty degree="0.98" locus="value" target="#grapheme_3" resp="#resp_1"/></zone><zone lrx="212" lry="1705" resp="#resp_1" type="grapheme" ulx="197" uly="1618"><seg><g xml:id="grapheme_4" resp="#resp_1">2</g></seg><certainty degree="0.62" locus="value" target="#grapheme_4" resp="#resp_1"/></zone></line>
+      <line lrx="1351" lry="2017" ulx="0" uly="0" xml:id="line_2" resp="#resp_0">
+        <zone lrx="17" lry="2017" resp="#resp_1" type="grapheme" ulx="0" uly="0"><seg><g xml:id="grapheme_5" resp="#resp_1">2</g></seg><certainty degree="0.85" locus="value" target="#grapheme_5" resp="#resp_1"/></zone></line>
+    </surface>
+  </sourceDoc>
+</TEI>

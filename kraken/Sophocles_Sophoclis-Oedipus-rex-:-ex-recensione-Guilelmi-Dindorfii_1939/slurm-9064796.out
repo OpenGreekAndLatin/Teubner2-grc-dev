@@ -1,0 +1,11 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@m3n45: [1;32mOK[0m
+kraken grc_teubner /cluster/tufts/perseus_ocr/nidaba/Teubner/Sophocles_Sophoclis-Oedipus-rex-:-ex-recensione-Guilelmi-Dindorfii_1939 tif 2700 8
+Fr 2. Okt 01:28:45 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+d2b3c893-57bb-4e58-bd2f-86d0531745ec
+Fr 2. Okt 02:14:46 EDT 2015
+slurmstepd: _slurm_cgroup_destroy: problem deleting step cgroup path /cgroup/freezer/slurm/uid_30292/job_9064796/step_batch: Device or resource busy

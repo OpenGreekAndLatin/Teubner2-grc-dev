@@ -1,0 +1,11 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@m3n45: [1;32mOK[0m
+kraken grc_teubner /cluster/tufts/perseus_ocr/nidaba/Teubner/Pindar_Pindari-Carmina-cum-fragmentis-selectis_1930 tif 18000 10
+Do 1. Okt 17:55:47 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+ee683229-8b67-4e24-b0a9-0851504c6f0a
+Do 1. Okt 23:01:50 EDT 2015
+slurmstepd: _slurm_cgroup_destroy: problem deleting step cgroup path /cgroup/freezer/slurm/uid_30292/job_9064766/step_batch: Device or resource busy

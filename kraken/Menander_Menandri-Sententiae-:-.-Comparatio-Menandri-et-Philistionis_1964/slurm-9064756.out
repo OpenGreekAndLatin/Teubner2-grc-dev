@@ -1,0 +1,11 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@alpha016: [1;32mOK[0m
+kraken grc_teubner /cluster/tufts/perseus_ocr/nidaba/Teubner/Menander_Menandri-Sententiae-:-.-Comparatio-Menandri-et-Philistionis_1964 tif 5760 0
+Do 1. Okt 16:40:43 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+7d198c30-5c75-4f71-92a8-983a201a0645
+Do 1. Okt 18:19:35 EDT 2015
+slurmstepd: _slurm_cgroup_destroy: problem deleting step cgroup path /cgroup/freezer/slurm/uid_30292/job_9064756/step_batch: Device or resource busy
