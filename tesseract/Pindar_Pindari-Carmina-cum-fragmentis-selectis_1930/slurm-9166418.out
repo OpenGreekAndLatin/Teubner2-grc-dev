@@ -1,0 +1,10 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@alpha008: [1;32mOK[0m
+tesseract grc+eng,extended=True /cluster/tufts/perseus_ocr/nidaba/Teubner/Pindar_Pindari-Carmina-cum-fragmentis-selectis_1930 tif 18000 10
+Do 15. Okt 21:31:27 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+b35f15a2-36c9-4677-b5f9-560e03ca9996
+Fr 16. Okt 03:02:33 EDT 2015

@@ -1,0 +1,10 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@alpha026: [1;32mOK[0m
+tesseract grc+eng,extended=True /cluster/tufts/perseus_ocr/nidaba/Teubner/Iamblichus-Chalcidensis_De-vita-pythagorica-liber_1937 tif 7200 15
+Do 15. Okt 17:17:07 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+bf24cac3-5fa0-4605-9798-bf9a0b20c0fb
+Do 15. Okt 19:20:50 EDT 2015

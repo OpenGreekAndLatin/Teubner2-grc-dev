@@ -1,0 +1,10 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@omega020: [1;32mOK[0m
+tesseract grc+eng,extended=True /cluster/tufts/perseus_ocr/nidaba/Teubner/Sophocles_Sophoclis-Oedipus-rex-:-ex-recensione-Guilelmi-Dindorfii_1939 tif 2700 7
+Fr 16. Okt 00:20:20 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+55c07199-436e-4839-98e9-2154735dd558
+Fr 16. Okt 01:06:54 EDT 2015

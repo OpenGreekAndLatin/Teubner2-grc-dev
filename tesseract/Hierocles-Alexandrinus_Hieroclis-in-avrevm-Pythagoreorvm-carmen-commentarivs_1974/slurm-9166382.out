@@ -1,0 +1,10 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@alpha008: [1;32mOK[0m
+tesseract grc+eng,extended=True /cluster/tufts/perseus_ocr/nidaba/Teubner/Hierocles-Alexandrinus_Hieroclis-in-avrevm-Pythagoreorvm-carmen-commentarivs_1974 tif 5940 6
+Do 15. Okt 15:53:36 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+48f42786-4476-4399-b5dc-7985535366bf
+Do 15. Okt 17:33:34 EDT 2015

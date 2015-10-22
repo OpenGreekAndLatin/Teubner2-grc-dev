@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>00000003_img.rgb_to_gray_binarize.otsu.tif</title>
+        <respStmt xml:id="resp_0">
+          <resp>page segmentation</resp>
+          <name>tesseract</name>
+        </respStmt>
+      <respStmt xml:id="resp_1"><resp>character recognition</resp><name>tesseract</name></respStmt><respStmt xml:id="resp_2"><resp>nidaba-levenshtein</resp><name>spell-checker</name></respStmt></titleStmt>
+      <publicationStmt/>
+    </fileDesc>
+  </teiHeader>
+  <sourceDoc>
+    <surface lrx="1439" lry="2082" ulx="0" uly="0">
+      <graphic url="4ae392d9-dfd4-4b00-b6c8-e2f972c5d0a3/00000003_img.rgb_to_gray_binarize.otsu.tif"/>
+      <zone/>
+      <line lrx="82" lry="1184" ulx="80" uly="80" xml:id="line_0" resp="#resp_0">
+        <zone lrx="82" lry="1184" type="segment" ulx="80" uly="1079" xml:id="seg_0" resp="#resp_1"><certainty degree="0.81" locus="value" target="#seg_0" resp="#resp_1"/><zone lrx="82" lry="1184" resp="#resp_1" type="grapheme" ulx="80" uly="1079"><seg><g xml:id="grapheme_0" resp="#resp_1">l</g></seg><certainty degree="0.81" locus="value" target="#grapheme_0" resp="#resp_1"/></zone><zone lrx="82" lry="1184" resp="#resp_1" type="grapheme" ulx="80" uly="1079"><seg><g xml:id="grapheme_1" resp="#resp_1"/></seg></zone></zone></line>
+      <line lrx="72" lry="1984" ulx="62" uly="1123" xml:id="line_1" resp="#resp_0">
+        </line>
+      <line lrx="1439" lry="2082" ulx="0" uly="0" xml:id="line_2" resp="#resp_0">
+        <zone lrx="1437" lry="354" type="segment" ulx="1428" uly="263" xml:id="seg_1" resp="#resp_1"><certainty degree="0.94" locus="value" target="#seg_1" resp="#resp_1"/><zone lrx="1437" lry="354" resp="#resp_1" type="grapheme" ulx="1428" uly="263"><seg><g xml:id="grapheme_2" resp="#resp_1"> </g></seg><certainty degree="0.94" locus="value" target="#grapheme_2" resp="#resp_1"/></zone></zone></line>
+    </surface>
+  </sourceDoc>
+</TEI>

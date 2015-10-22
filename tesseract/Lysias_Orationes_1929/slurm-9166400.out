@@ -1,0 +1,10 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@alpha026: [1;32mOK[0m
+tesseract grc+eng,extended=True /cluster/tufts/perseus_ocr/nidaba/Teubner/Lysias_Orationes_1929 tif 12780 8
+Do 15. Okt 19:21:03 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+3ada6c5b-6c9f-4bf2-a20f-397efa2e308a
+Do 15. Okt 22:55:22 EDT 2015

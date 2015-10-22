@@ -1,0 +1,10 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@alpha025: [1;32mOK[0m
+tesseract grc+eng,extended=True /cluster/tufts/perseus_ocr/nidaba/Teubner/Plutarch_Moralia-4_1971 tif 18630 7
+Do 15. Okt 22:24:31 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+194be418-d92b-4c6c-b69a-1a1b7076afa5
+Fr 16. Okt 03:49:24 EDT 2015

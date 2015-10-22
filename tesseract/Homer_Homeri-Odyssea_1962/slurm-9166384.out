@@ -1,0 +1,10 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@alpha025: [1;32mOK[0m
+tesseract grc+eng,extended=True /cluster/tufts/perseus_ocr/nidaba/Teubner/Homer_Homeri-Odyssea_1962 tif 20970 8
+Do 15. Okt 16:01:52 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+c13473f0-52fa-4324-a15c-3b0fcc26983c
+Do 15. Okt 21:54:24 EDT 2015

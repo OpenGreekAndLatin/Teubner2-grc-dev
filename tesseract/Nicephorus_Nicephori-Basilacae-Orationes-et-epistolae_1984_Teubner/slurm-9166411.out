@@ -1,0 +1,10 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@omega009: [1;32mOK[0m
+tesseract grc+eng,extended=True /cluster/tufts/perseus_ocr/nidaba/Teubner/Nicephorus_Nicephori-Basilacae-Orationes-et-epistolae_1984_Teubner tif 5940 3
+Do 15. Okt 21:22:23 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+c0e2d911-cbfe-4a3d-b687-ead4eb72e5ce
+Do 15. Okt 23:09:54 EDT 2015

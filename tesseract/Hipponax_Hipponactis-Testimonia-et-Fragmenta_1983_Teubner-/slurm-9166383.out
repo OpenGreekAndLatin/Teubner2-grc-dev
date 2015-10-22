@@ -1,0 +1,10 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@omega012: [1;32mOK[0m
+tesseract grc+eng,extended=True /cluster/tufts/perseus_ocr/nidaba/Teubner/Hipponax_Hipponactis-Testimonia-et-Fragmenta_1983_Teubner- tif 8910 7
+Do 15. Okt 15:55:10 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+a4c925d3-15f5-48ec-84cf-959670873949
+Do 15. Okt 18:25:21 EDT 2015

@@ -1,0 +1,10 @@
+[]
+[1;36mcelery multi v3.1.18 (Cipater)[0m
+> Starting nodes...
+	> worker@alpha009: [1;32mOK[0m
+tesseract grc+eng,extended=True /cluster/tufts/perseus_ocr/nidaba/Teubner/Galen_Galeni-De-temperamentis-libri-III-:-=-Galēnu-Peri-kraseōn_1969 tif 6840 4
+Do 15. Okt 15:28:40 EDT 2015
+Preparing filestore		[✓]
+Building batch			[✓]
+08f8008d-5b98-4a12-ba96-993081006714
+Do 15. Okt 17:29:08 EDT 2015
